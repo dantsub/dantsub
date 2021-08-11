@@ -1,13 +1,12 @@
 # Hi 👋, I'm Joshua Martinez
 
-### A passionate frontend developer from Colombia
+## A passionate software developer from Colombia
 
-<p align="left"> 
-<a href="https://twitter.com/dantsub_" target="blank"><img src="https://img.shields.io/twitter/follow/dantsub_?logo=twitter&style=for-the-badge" alt="dantsub_" /></a> </p>
+👨‍💻 All of my projects are available at [here](https://github.com/dantsub)
 
-- 👨‍💻 All of my projects are available at [https://github.com/dantsub](https://github.com/dantsub)
+🌱  I am currently learning web development
 
-- 📫 How to reach me **dantsub@gmail.com**
+💗 I am passionate about design, technology, rubik cube.
 
 <details>
   <summary>:rocket:&nbsp;&nbsp;&nbsp;<b>Languages and Tools:</b></summary>
@@ -29,17 +28,17 @@
 
 <details>
   <summary>✨&nbsp;&nbsp;&nbsp;<b>GitHub Stats</b></summary>
-
-  <p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=dantsub&show_icons=true&locale=en&layout=compact" alt="dantsub" /></p>
-  <p><img src="https://github-readme-stats.vercel.app/api?username=dantsub&show_icons=true&locale=en" alt="dantsub" /></p>
+  <img src="https://github-readme-stats.vercel.app/api?username=dantsub&show_icons=true&locale=en" alt="dantsub" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=dantsub&show_icons=true&locale=en&layout=compact" alt="dantsub" />
 
 </details>
 
 ---
 
 ## Connect with me:
-
-<p align="left">
-  <a href="https://linkedin.com/in/dantsub" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="dantsub" height="30" width="40" /></a>
-  <a href="https://twitter.com/dantsub_" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="dantsub_" height="30" width="40" /></a>
-</p>
+<a href="https://www.linkedin.com/in/dantsub/">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+<a href="https://twitter.com/dantsub_">
+  <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
+</a>
