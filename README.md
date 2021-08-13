@@ -2,7 +2,7 @@
 
 ## A passionate software developer from Colombia
 
-👨‍💻 All of my projects are available at [here](https://github.com/dantsub)
+👨‍💻 All of my projects are available at [here](https://github.com/dantsub?tab=repositories)
 
 🌱  I am currently learning web development
 
