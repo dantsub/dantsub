@@ -4,7 +4,7 @@
 
 👨‍💻 All of my projects are available at [here](https://github.com/dantsub?tab=repositories)
 
-🌱  I am currently learning web development
+🌱  I am currently updating myself in frontend technologies and a little bit about backend.
 
 💗 I am passionate about design, technology, rubik cube.
 
@@ -38,7 +38,4 @@
 ## Connect with me:
 <a href="https://www.linkedin.com/in/dantsub/">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
-<a href="https://twitter.com/dantsub_">
-  <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
 </a>
